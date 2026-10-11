@@ -1,0 +1,5 @@
+Official source: UCI Machine Learning Repository — Student Performance (ID 320)
+URL: https://archive.ics.uci.edu/dataset/320/student%2Bperformance
+DOI: https://doi.org/10.24432/C5TG7T
+License: CC BY 4.0
+Dataset: data from two Portuguese schools; not a government dataset.
